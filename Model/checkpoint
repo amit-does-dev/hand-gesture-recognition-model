@@ -1,0 +1,2 @@
+model_checkpoint_path: "d:\\Github repos\\Fingure-Gesture-based-recognition-using-OpenCV-and-CNN\\TrainedModel\\GestureRecogModel.tfl"
+all_model_checkpoint_paths: "d:\\Github repos\\Fingure-Gesture-based-recognition-using-OpenCV-and-CNN\\TrainedModel\\GestureRecogModel.tfl"
